@@ -43,7 +43,7 @@
 
 ## 🛠️ My Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,java,supabase,firebase,tailwind,nextjs,react,php,nodejs,svelte,github,mysql,mongodb,linux,arch,windows,android" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,java,supabase,firebase,tailwind,php,github,mysql,linux,arch,windows,android" />
 </p>
 
 <div align="center">

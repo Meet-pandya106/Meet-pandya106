@@ -223,7 +223,7 @@ Phase 3 — Year 3                     ░░░░░░░░░░░░░�
 
 <div align="center">
 
-![Meet's GitHub Stats](https://github-readme-stats.shion.dev/api?username=Meet-pandya106&theme=neon&hide_border=true&include_all_commits=false&count_private=false)
+![Meet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meet-pandya106&theme=neon&hide_border=true&include_all_commits=false&count_private=false)
 
 <br/>
 
@@ -231,7 +231,7 @@ Phase 3 — Year 3                     ░░░░░░░░░░░░░�
 
 <br/>
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Meet-pandya106&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meet-pandya106&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
@@ -247,11 +247,11 @@ Phase 3 — Year 3                     ░░░░░░░░░░░░░�
 
 ---
 
-## 🔝 Top Contributed Repos
+## 📉 Contribution Activity
 
 <div align="center">
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Meet-pandya106&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Meet-pandya106&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Meet-pandya106)
 
 </div>
 

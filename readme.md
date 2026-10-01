@@ -50,9 +50,8 @@ Evidence-driven problem-solving platform for engineering teams. Handles incident
 **Languages:** Python · JavaScript · TypeScript · C · C# · Java · SQL · Bash  
 **AI/ML:** PyTorch · NumPy · Pandas · scikit-learn · Dynamic Graph Networks · Continual Learning  
 **Frontend:** React · Three.js · WebGL / GLSL · Tailwind CSS · Electron  
-**Backend & Data:** Node.js · PostgreSQL · SQLite · Supabase · REST APIs  
-**Security & Systems:** Kali Linux · Wireshark · Nmap · Burp Suite · Networking Analysis  
-**Tools:** Git · VS Code · Linux · Docker · VirtualBox  
+**Backend & Data:** Node.js · PostgreSQL · SQLite · Supabase · REST APIs   
+**Tools:** Git · VS Code · Docker ·  
 
 ---
 

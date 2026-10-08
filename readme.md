@@ -125,13 +125,7 @@ The project is the vehicle. What I carry out of it is the point.
 
 <br>
 
----
 
-## A note on intent
-
-I'm more drawn to how systems behave under pressure than to how fast features ship. If something exists in this repository, it's because it forced me to understand something I didn't before — or it's actively in the process of doing that.
-
-Some repos here are abandoned or archived. I leave them up deliberately. They're honest records of where my thinking was at the time.
 
 <br>
 

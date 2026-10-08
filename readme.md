@@ -39,18 +39,27 @@ An evidence-driven incident management platform for engineering teams. Handles r
 
 These aren't commitments. They're problems I want to spend serious time with.
 
-- **CoFound** — A platform for finding technical co-founders and early-stage team members. Startup formation is genuinely hard to navigate; I want to build something that makes early team assembly less random.
 - **Project Axiom** — A simulation of AI agents dropped into a world with no prior knowledge, tasked with rebuilding civilization from first principles. This is the longer-horizon version of what Noesis is exploring: emergence, cooperation, and the conditions under which intelligence compounds. This is likely where my research eventually points.
 
 ---
 
 ## Technical background
 
-**Languages:** Python · JavaScript · TypeScript · C · C# · Java · SQL · Bash  
-**AI/ML:** PyTorch · NumPy · Pandas · scikit-learn · Dynamic Graph Networks · Continual Learning  
-**Frontend:** React · Three.js · WebGL / GLSL · Tailwind CSS · Electron  
-**Backend & Data:** Node.js · PostgreSQL · SQLite · Supabase · REST APIs  
-**Tools:** Git · VS Code · Docker
+**Languages:** Python · Lua · SQL · Bash
+
+**AI & Machine Learning:** PyTorch · NumPy · scikit-learn · Reinforcement Learning · Continual Learning · Neural Networks · Recurrent Neural Networks
+
+**Adaptive Neural Systems:** Dynamic Neural Graphs · Neural Plasticity · Structural Plasticity · Neural Growth & Pruning · Sparse Networks · Memory Systems · Predictive Processing · Neuromodulation
+
+**Research:** Experiment Design · Statistical Analysis · Ablation Studies · Interpretability · Decision Tracing · Neural Activity Analysis · Reproducible Research
+
+**Systems:** mGBA · Emulator Integration · IPC · Parallel Environments · GPU Computing · CUDA · Performance Engineering
+
+**Data & Visualization:** Pandas · Matplotlib · Graph Visualization · Network Analysis · Dimensionality Reduction
+
+**Engineering & Tools:** Git · GitHub · Docker · Linux · VS Code · Obsidian
+
+**Mathematics:** Linear Algebra · Multivariable Calculus · Probability Theory · Statistics · Optimization · Graph Theory · Information Theory · Numerical Methods
 
 I'm not fixed to any particular stack. If a problem calls for something different, I'll go deep enough to understand how it actually works before using it.
 
